@@ -1,0 +1,2 @@
+database: "postgres://"
+key: "32ByteKeyForAESEncyption........"
